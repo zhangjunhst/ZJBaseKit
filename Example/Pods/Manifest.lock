@@ -1,0 +1,16 @@
+PODS:
+  - ZJBaseKit (0.1.0)
+
+DEPENDENCIES:
+  - ZJBaseKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZJBaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJBaseKit: 6cd2b2add3998d0309bc511a51a624a4c961bfa1
+
+PODFILE CHECKSUM: 49a7375d9190368238805ccb81f6af04f097f6c9
+
+COCOAPODS: 1.9.3

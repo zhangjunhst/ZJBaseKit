@@ -1,0 +1,22 @@
+{
+  "name": "ZJBaseKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZJBaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZJ/ZJBaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZJ": "ZJ"
+  },
+  "source": {
+    "git": "https://github.com/ZJ/ZJBaseKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZJBaseKit/Classes/**/*"
+}
